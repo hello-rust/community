@@ -1,10 +1,9 @@
 ---
 name: "❤️ Create Rust Meetup"
 about: Your very own (online) meetup!
-title: 'Meetup: '
+title: 'Meetup: <NAME>'
 labels: ''
 assignees: ''
-
 ---
 
 Let's chat about Rust!
@@ -13,4 +12,5 @@ If you want to propose a talk, add a comment here. 😊
 
 * Date: ...
 * Time: ... (+ timezone)
-* Location: URL
+* Location: <Event URL>
+* Language: English
